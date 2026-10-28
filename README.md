@@ -52,4 +52,4 @@ This project transforms historical WWE superstar data into real-time visual perf
 - **Developer:** Mohamed Moufaq S
 - **Role:** Data Science & Analytics Student
 - **GitHub:** [github.com/Mohamedmoufaq](https://github.com/Mohamedmoufaq)
-- **LinkedIn:** [linkedin.com/in/mohamed-moufag147](https://linkedin.com/in/mohamed-moufag147)
+- **LinkedIn:** [linkedin.com/in/mohamed-moufaq147](https://linkedin.com/in/mohamed-moufaq147)
